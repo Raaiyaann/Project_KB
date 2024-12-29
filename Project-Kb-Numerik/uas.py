@@ -1,3 +1,7 @@
+#klasifikasi anjing dan Kucing menggunakan algoritma KNN
+#Nama: Mohammad Raiyan
+#Nim: F55123001
+
 try:
     import os
     import numpy as np
